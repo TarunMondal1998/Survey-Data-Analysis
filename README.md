@@ -6,3 +6,8 @@
         <li>Performing Pivot analysis in Excel based on the collected responses</li>
         <li>Developing an interactive dashboard to help stakeholders to make informed decisions</li>
     </ul>
+<h1>Potential Stakeholders</h1>
+    <ul>
+        <li>Cricket enthusiasts</li>
+        <li>Individuals following the Indian cricket team closely</li>
+    </ul>
